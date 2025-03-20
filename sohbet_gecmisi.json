@@ -1,0 +1,31 @@
+{
+    "Sohbet 1": [
+        {
+            "question": "bilgisayar ağları Hoca kimdir",
+            "answer": "Bilgisayar Ağları I ve Bilgisayar Ağları II derslerini Doç. Dr. Turgut ÖZSEVEN vermektedir.",
+            "audio": "sesli_yanitlar\\Sohbet 1_yanit_1.mp3"
+        }
+    ],
+    "Sohbet 2": [
+        {
+            "question": "TOKİ'den rakımı kaçtır",
+            "answer": "Metinde TOKİ'nin rakımıyla ilgili bir bilgi bulunmamaktadır.  Verilen bilgiler sadece Türkiye illerinin rakımlarını içermektedir.",
+            "audio": "sesli_yanitlar\\Sohbet 2_yanit_1.mp3"
+        },
+        {
+            "question": "Amasya nüfusu kaçtır",
+            "answer": "Amasya'nın nüfusu 335.331'dir.",
+            "audio": "sesli_yanitlar\\Sohbet 2_yanit_2.mp3"
+        },
+        {
+            "question": "غدا النفوس في امصيا",
+            "answer": "Amasya'nın 2021 yılı nüfus rakamı 335.331'dir.",
+            "audio": "sesli_yanitlar\\Sohbet 2_yanit_3.mp3"
+        },
+        {
+            "question": "who is governor of Edina",
+            "answer": "Edine'nin valisi Yunus Sezer'dir.",
+            "audio": "sesli_yanitlar\\Sohbet 2_yanit_4.mp3"
+        }
+    ]
+}
