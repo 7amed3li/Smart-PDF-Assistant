@@ -17,7 +17,7 @@ It supports **Turkish, Arabic, and English**, with voice input and text-to-speec
 ## 📦 Installation
 To run the project, install the required dependencies:
 ```bash
-pip install google-generativeai PyPDF2 streamlit speechrecognition gtts langdetect
+pip install google-generativeai PyPDF2 streamlit SpeechRecognition gTTS langdetect pyaudio
 🎯 How to Use?
 1️⃣ Upload a PDF file via the Streamlit interface.
 2️⃣ Type your question or use voice input.
