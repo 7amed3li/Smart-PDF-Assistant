@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import google.generativeai as genai
 import PyPDF2
 import streamlit as st
