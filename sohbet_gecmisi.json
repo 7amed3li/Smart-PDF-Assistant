@@ -1,31 +1,19 @@
 {
     "Sohbet 1": [
         {
-            "question": "bilgisayar ağları Hoca kimdir",
-            "answer": "Bilgisayar Ağları I ve Bilgisayar Ağları II derslerini Doç. Dr. Turgut ÖZSEVEN vermektedir.",
-            "audio": "sesli_yanitlar\\Sohbet 1_yanit_1.mp3"
+            "question": "Doktor Poliklinik Çalışma Listesi !",
+            "answer": "Metinde, her bölüm için görev yapan doktorların listesi bulunmaktadır. Ancak bu, tam bir \"Doktor Poliklinik Çalışma Listesi\" değildir.  Tam bir liste için Tokat Gaziosmanpaşa Üniversitesi Hastanesi'nin resmi web sitesindeki  \"Doktor Poliklinik Çalışma Listesi\" bağlantısını (metinde belirtilen  https://hastane.gop.edu.tr/doktor-pol-calisma-list/) ziyaret etmeniz gerekmektedir.  Metin, sadece bazı başlıca doktorları ve uzmanlık alanlarını örnek olarak sunmaktadır."
+        },
+        {
+            "question": "يا اسطى لخصت الملف",
+            "answer": "الملف يتحدث عن تنظيف الجهاز التنفسي من الإفرازات، مُغطيًا جوانب عدة:\n\n**أولاً: أسباب اختلال تنظيف الجهاز التنفسي:**  يشمل ذلك ضعف الحركة الهدبية،  وتغيرات في تركيب المخاط (مثل التليف الكيسي)،  عيوب هيكلية (مثل توسع الشعب الهوائية)،  اضطرابات في آلية السعال (مثل الأمراض العصبية العضلية).\n\n**ثانياً: تقنيات تنظيف الجهاز التنفسي:**  يشمل ذلك التصريف الوضعي (مع شرح مفصل للمواضع لكل جزء من الرئة)،  والطرق اليدوية (القرع، الاهتزاز، الهز)،  وتقنية \"الهوفينج\" والسعال والزفير القوي،  وتقنيات التنفس النشطة،  والصرف الذاتي،  وأجهزة المساعدة (مثل علاج الضغط الزفيري الإيجابي).\n\n**ثالثاً: التصريف الوضعي:** شرح تفصيلي لمواضع الجسم المناسبة لتصريف الإفرازات من مختلف فصوص الرئة،  مع ذكر علامات عدم تحمل هذه التقنية وموانع استخدامها.\n\n**رابعاً: التقنيات اليدوية:**  شرح مفصل لكل من القرع، والاهتزاز، والهز،  مع ذكر نقاط رئيسية لكل منها،  ومؤشرات وموانع الاستخدام.\n\n**خامساً: تقنية \"الهوفينج\" والسعال والزفير القوي:**  شرح آلية كل منها وفائدتها في إخراج الإفرازات.\n\n**سادساً: دورة تقنيات التنفس النشطة:**  شرح دورة تتضمن التحكم في التنفس،  تمارين توسيع الصدر،  وتقنية الزفير القوي،  مع ذكر استخدامها في حالات مختلفة (مثل ما بعد الجراحة،  أو أمراض معينة).\n\n**سابعاً: تعليمات عامة:**  يشمل ذلك أفضل أوقات استخدام هذه التقنيات،  كمية السوائل الموصى بها،  والعلاقة بين هذه التقنيات والأدوية المساعدة (مثل موسعات الشعب الهوائية،  ومذيبات البلغم).",
+            "audio": "sesli_yanitlar\\Sohbet 1_yanit_1746885255.mp3"
         }
     ],
     "Sohbet 2": [
         {
-            "question": "TOKİ'den rakımı kaçtır",
-            "answer": "Metinde TOKİ'nin rakımıyla ilgili bir bilgi bulunmamaktadır.  Verilen bilgiler sadece Türkiye illerinin rakımlarını içermektedir.",
-            "audio": "sesli_yanitlar\\Sohbet 2_yanit_1.mp3"
-        },
-        {
-            "question": "Amasya nüfusu kaçtır",
-            "answer": "Amasya'nın nüfusu 335.331'dir.",
-            "audio": "sesli_yanitlar\\Sohbet 2_yanit_2.mp3"
-        },
-        {
-            "question": "غدا النفوس في امصيا",
-            "answer": "Amasya'nın 2021 yılı nüfus rakamı 335.331'dir.",
-            "audio": "sesli_yanitlar\\Sohbet 2_yanit_3.mp3"
-        },
-        {
-            "question": "who is governor of Edina",
-            "answer": "Edine'nin valisi Yunus Sezer'dir.",
-            "audio": "sesli_yanitlar\\Sohbet 2_yanit_4.mp3"
+            "question": "PDF özeti isteği",
+            "answer": "Metin, sağlıklı bireylerde solunum yolu temizliğinin (mukosiliyer taşıma, hava akışı, öksürük) ve bozukluklarının (kistik fibrozis, primer siliyer diskinezi, bronşektazi, nöromusküler hastalıklar) mekanizmalarını açıklıyor.  Solunum yolu temizleme teknikleri arasında postüral drenaj (yerçekimini kullanarak sekresyonların drenajı, farklı vücut pozisyonları detaylı olarak açıklanmıştır), perküsyon, vibrasyon, shaking, huffing, öksürme, zorlu ekspirasyon teknikleri, aktif solunum teknikleri, otojenik drenaj ve yardımcı cihazlar (PEP terapi, yüksek frekanslı göğüs osilasyonları, mekanik destekli öksürme, manuel hiperinflasyon, JalaNeti) yer alıyor. Postüral drenajın uygulama detayları, tolere edilememe belirtileri (azalmış tidal volüm, anksiyete, hipertansiyon vb.) ve kontrendikasyonları (masif hemoptizi, kardiyovasküler instabilite vb.)  açıklanmıştır.  Modifiye postüral drenaj, baş aşağı pozisyon verilemeyen hastalar için alternatif bir yaklaşımı temsil eder.  Manual teknikler (perküsyon, vibrasyon, shaking) de ayrıntılı bir şekilde anlatılmıştır.  Perküsyon tekniği, sekresyon mobilizasyonuna yardımcı olmak için göğüs duvarında mekanik osilasyonlar oluşturmayı amaçlar."
         }
     ]
 }
